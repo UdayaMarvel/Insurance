@@ -15,13 +15,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BikeInsurance {
 	 public static WebDriver driver;
-
-//	Launch the application "https://www.tataaig.com/"
-//	Enter the Vehicle number
-//	Click on Get Quote
-//	Enter the mobile number
-//	Click on See price
-//	Validate the plans and Bike value
 	
 	 @Before
 	 public void beforeMethod() {
