@@ -3,6 +3,8 @@ package com.Udaya;
 public class Test {
 
 	public static void main(String[] args) {
+		
+		//Test
 		String string = "kayak";
 		String output = "";
 		for(int i = string.length()-1;i>=0;i--) {
@@ -18,3 +20,5 @@ public class Test {
 		}
 	}
 }
+//  local to remote > remote add origin > to set the destination
+//  remote to local > 
