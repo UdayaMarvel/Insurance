@@ -14,10 +14,11 @@ public class ListSet {
 		list.add("Japan");
 		list.add("India");
 		list.add("Uk");
-		
+		list.add("combodia");
 		System.out.println(list);
 		
 		Set <String> set= new HashSet <String>();
+		set.add("Africa");
 		set.add("Asia");
 		set.add("Europe");
 		set.addAll(list);
